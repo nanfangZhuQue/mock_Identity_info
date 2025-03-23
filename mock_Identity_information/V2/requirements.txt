@@ -1,0 +1,6 @@
+pandas
+faker
+Pillow
+requests
+pyinstaller
+pygame
